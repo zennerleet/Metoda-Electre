@@ -1,0 +1,11 @@
+O:\Work\c#\metodaElectre\metodaElectre\bin\Debug\metodaElectre.exe
+O:\Work\c#\metodaElectre\metodaElectre\bin\Debug\metodaElectre.pdb
+O:\Work\c#\metodaElectre\metodaElectre\obj\Debug\metodaElectre.csprojResolveAssemblyReference.cache
+O:\Work\c#\metodaElectre\metodaElectre\obj\Debug\metodaElectre.Properties.Resources.resources
+O:\Work\c#\metodaElectre\metodaElectre\obj\Debug\metodaElectre.csproj.GenerateResource.Cache
+O:\Work\c#\metodaElectre\metodaElectre\obj\Debug\metodaElectre.exe
+O:\Work\c#\metodaElectre\metodaElectre\obj\Debug\metodaElectre.pdb
+O:\Work\c#\metodaElectre\metodaElectre\obj\Debug\metodaElectre.Details.resources
+O:\Work\c#\metodaElectre\metodaElectre\obj\Debug\metodaElectre.Calificative.resources
+O:\Work\c#\metodaElectre\metodaElectre\obj\Debug\metodaElectre.Utilities.resources
+O:\Work\c#\metodaElectre\metodaElectre\obj\Debug\metodaElectre.ConcDisco.resources
